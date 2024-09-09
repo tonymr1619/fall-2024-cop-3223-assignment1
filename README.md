@@ -1,0 +1,2 @@
+To compile, first write "gcc -o fracturing fracturing.c -lm" in the terminal, then type "./fracturing".
+The program will ask you for inputs of coordinates of x and y, until you have finished entering all your inputs for the city.
